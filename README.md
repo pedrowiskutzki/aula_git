@@ -1,1 +1,1 @@
-# aula_git
+EXEMPLO DE AULA DE GIT
